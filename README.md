@@ -1,4 +1,4 @@
-### Working on different projects to sharpend my data analytics skills. 
+### Working on different projects to sharpen my data analytics skills. 
 <!--
 **noryarroyo/noryarroyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
