@@ -1,5 +1,4 @@
-### Currently learning how to utilize Python and other programming languages for Data Science purposes. 
-
+### Working on different projects to sharpend my data analytics skills. 
 <!--
 **noryarroyo/noryarroyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
